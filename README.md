@@ -1,2 +1,2 @@
 # This is an individual c program
-# By using tree structure and min-max decision
+# Simply put, this program implements a checker games by using tree structure and decisions making.
